@@ -1,0 +1,11 @@
+C:\Users\benha\source\repos\StudentPortal\Enregistrement\bin\Debug\net8.0\Enregistrement.deps.json
+C:\Users\benha\source\repos\StudentPortal\Enregistrement\bin\Debug\net8.0\Enregistrement.dll
+C:\Users\benha\source\repos\StudentPortal\Enregistrement\bin\Debug\net8.0\Enregistrement.pdb
+C:\Users\benha\source\repos\StudentPortal\Enregistrement\obj\Debug\net8.0\Enregistrement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benha\source\repos\StudentPortal\Enregistrement\obj\Debug\net8.0\Enregistrement.AssemblyInfoInputs.cache
+C:\Users\benha\source\repos\StudentPortal\Enregistrement\obj\Debug\net8.0\Enregistrement.AssemblyInfo.cs
+C:\Users\benha\source\repos\StudentPortal\Enregistrement\obj\Debug\net8.0\Enregistrement.csproj.CoreCompileInputs.cache
+C:\Users\benha\source\repos\StudentPortal\Enregistrement\obj\Debug\net8.0\Enregistrement.dll
+C:\Users\benha\source\repos\StudentPortal\Enregistrement\obj\Debug\net8.0\refint\Enregistrement.dll
+C:\Users\benha\source\repos\StudentPortal\Enregistrement\obj\Debug\net8.0\Enregistrement.pdb
+C:\Users\benha\source\repos\StudentPortal\Enregistrement\obj\Debug\net8.0\ref\Enregistrement.dll
